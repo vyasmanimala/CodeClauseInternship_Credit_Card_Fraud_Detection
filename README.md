@@ -33,6 +33,6 @@ Clone the repository to your local machine.
 
 Install the required Python libraries and dependencies mentioned in the requirements.txt file.
 
-Run the provided Jupyter Notebook or Python scripts to perform sentiment analysis on creditcard  fraud detection -related data.
+Run the provided Jupyter Notebook or Python scripts to perform analysis on creditcard  fraud detection -related data.
 
 Visualize the results.
